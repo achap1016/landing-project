@@ -1,0 +1,39 @@
+.container {
+    height: 140px;
+    padding: 16px;
+    background: #1F2937;
+    display: flex;
+}
+
+.heromain {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.herosecondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.headerlogo {
+    font-size: 24px;
+    color: #F9FAF8
+}
+
+.button {
+    color: #3882F6
+}
+
+.information {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
